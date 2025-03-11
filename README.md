@@ -12,7 +12,7 @@
 
 5|.User Login: Secure authentication for a personalized experience.
 
-***Technologies Used**
+***Technologies Used** :-
 
 Frontend: React, Tailwind CSS
 
