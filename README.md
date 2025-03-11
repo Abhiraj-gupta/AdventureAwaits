@@ -1,6 +1,6 @@
-**Adventure Awaits**  is an integrated travel planning application designed to simplify travel by providing customized guides, budget planning, interactive maps, real-time booking, and user reviews. Our goal is to make trip planning easy, affordable, and enjoyable.
+***Adventure Awaits**  is an integrated travel planning application designed to simplify travel by providing customized guides, budget planning, interactive maps, real-time booking, and user reviews. Our goal is to make trip planning easy, affordable, and enjoyable.
 
-**Features** :-
+***Features** :-
 
 1|.Customized Travel Guides: Get personalized recommendations based on preferences.
 
@@ -12,7 +12,7 @@
 
 5|.User Login: Secure authentication for a personalized experience.
 
-**Technologies Used**
+***Technologies Used**
 
 Frontend: React, Tailwind CSS
 
